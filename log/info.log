@@ -1,0 +1,127 @@
+[2022-12-31 16:00:44][main] INFO  com.wjl.example.SpringBootExampleApplication - Starting SpringBootExampleApplication using Java 17 on lonestar with PID 34048 (D:\wjl\repository\spring-boot-example\target\classes started by wjl in D:\wjl\repository\spring-boot-example)
+[2022-12-31 16:00:44][main] INFO  com.wjl.example.SpringBootExampleApplication - No active profile set, falling back to default profiles: default
+[2022-12-31 16:00:46][main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+[2022-12-31 16:00:46][main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2022-12-31 16:00:46][main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[2022-12-31 16:00:46][main] WARN  org.apache.catalina.core.AprLifecycleListener - This listener must only be nested within Server elements, but is in [TomcatEmbeddedContext].
+[2022-12-31 16:00:46][main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+[2022-12-31 16:00:46][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[2022-12-31 16:00:46][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2022-12-31 16:00:46][main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+[2022-12-31 16:00:46][main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2022-12-31 16:00:46][main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2022-12-31 16:00:46][main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+[2022-12-31 16:00:46][main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2022-12-31 16:00:46][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[2022-12-31 16:00:46][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[2022-12-31 16:00:46][main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2022-12-31 16:00:47][main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2022-12-31 16:00:47][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[2022-12-31 16:00:47][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[2022-12-31 16:00:47][main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+[2022-12-31 16:03:15][main] INFO  com.wjl.example.SpringBootExampleApplication - Starting SpringBootExampleApplication using Java 17 on lonestar with PID 37628 (D:\wjl\repository\spring-boot-example\target\classes started by wjl in D:\wjl\repository\spring-boot-example)
+[2022-12-31 16:03:15][main] INFO  com.wjl.example.SpringBootExampleApplication - No active profile set, falling back to default profiles: default
+[2022-12-31 16:03:17][main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+[2022-12-31 16:03:17][main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2022-12-31 16:03:17][main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[2022-12-31 16:03:17][main] WARN  org.apache.catalina.core.AprLifecycleListener - This listener must only be nested within Server elements, but is in [TomcatEmbeddedContext].
+[2022-12-31 16:03:17][main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+[2022-12-31 16:03:17][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[2022-12-31 16:03:17][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2022-12-31 16:03:17][main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+[2022-12-31 16:03:17][main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2022-12-31 16:03:17][main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2022-12-31 16:03:17][main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+[2022-12-31 16:03:17][main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2022-12-31 16:03:17][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[2022-12-31 16:03:17][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[2022-12-31 16:03:17][main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2022-12-31 16:03:17][main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2022-12-31 16:03:18][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[2022-12-31 16:03:18][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[2022-12-31 16:03:18][main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+[2022-12-31 16:10:56][main] INFO  com.wjl.example.SpringBootExampleApplication - Starting SpringBootExampleApplication using Java 17 on lonestar with PID 41548 (D:\wjl\repository\spring-boot-example\target\classes started by wjl in D:\wjl\repository\spring-boot-example)
+[2022-12-31 16:10:56][main] INFO  com.wjl.example.SpringBootExampleApplication - No active profile set, falling back to default profiles: default
+[2022-12-31 16:10:58][main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+[2022-12-31 16:10:58][main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2022-12-31 16:10:58][main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+[2022-12-31 16:10:58][main] WARN  org.apache.catalina.core.AprLifecycleListener - This listener must only be nested within Server elements, but is in [TomcatEmbeddedContext].
+[2022-12-31 16:10:58][main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+[2022-12-31 16:10:58][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[2022-12-31 16:10:58][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2022-12-31 16:10:58][main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+[2022-12-31 16:10:58][main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2022-12-31 16:10:58][main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2022-12-31 16:10:58][main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.1.Final
+[2022-12-31 16:10:58][main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2022-12-31 16:10:58][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[2022-12-31 16:10:58][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[2022-12-31 16:10:58][main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2022-12-31 16:10:58][main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2022-12-31 16:10:59][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[2022-12-31 16:10:59][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[2022-12-31 16:10:59][main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+[2022-12-31 16:11:41][main] INFO  com.wjl.example.SpringBootExampleApplication - Starting SpringBootExampleApplication using Java 17 on lonestar with PID 40912 (D:\wjl\repository\spring-boot-example\target\classes started by wjl in D:\wjl\repository\spring-boot-example)
+[2022-12-31 16:11:41][main] INFO  com.wjl.example.SpringBootExampleApplication - No active profile set, falling back to default profiles: default
+[2022-12-31 16:11:42][main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+[2022-12-31 16:11:42][main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2022-12-31 16:11:42][main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+[2022-12-31 16:11:42][main] WARN  org.apache.catalina.core.AprLifecycleListener - This listener must only be nested within Server elements, but is in [TomcatEmbeddedContext].
+[2022-12-31 16:11:42][main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+[2022-12-31 16:11:42][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[2022-12-31 16:11:42][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2022-12-31 16:11:42][main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+[2022-12-31 16:11:42][main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2022-12-31 16:11:42][main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2022-12-31 16:11:42][main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.1.Final
+[2022-12-31 16:11:43][main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2022-12-31 16:11:43][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[2022-12-31 16:11:43][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[2022-12-31 16:11:43][main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2022-12-31 16:11:43][main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2022-12-31 16:11:43][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[2022-12-31 16:11:43][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[2022-12-31 16:11:43][main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+[2022-12-31 16:13:18][main] INFO  com.wjl.example.SpringBootExampleApplication - Starting SpringBootExampleApplication using Java 17 on lonestar with PID 25468 (D:\wjl\repository\spring-boot-example\target\classes started by wjl in D:\wjl\repository\spring-boot-example)
+[2022-12-31 16:13:18][main] INFO  com.wjl.example.SpringBootExampleApplication - No active profile set, falling back to default profiles: default
+[2022-12-31 16:13:19][main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+[2022-12-31 16:13:19][main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2022-12-31 16:13:19][main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[2022-12-31 16:13:19][main] WARN  org.apache.catalina.core.AprLifecycleListener - This listener must only be nested within Server elements, but is in [TomcatEmbeddedContext].
+[2022-12-31 16:13:19][main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+[2022-12-31 16:13:19][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[2022-12-31 16:13:19][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2022-12-31 16:13:19][main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+[2022-12-31 16:13:20][main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2022-12-31 16:13:20][main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2022-12-31 16:13:20][main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+[2022-12-31 16:13:20][main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2022-12-31 16:13:20][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[2022-12-31 16:13:20][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[2022-12-31 16:13:20][main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2022-12-31 16:13:20][main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2022-12-31 16:13:21][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[2022-12-31 16:13:21][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[2022-12-31 16:13:21][main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+[2022-12-31 16:14:23][main] INFO  com.wjl.example.SpringBootExampleApplication - Starting SpringBootExampleApplication using Java 17 on lonestar with PID 8216 (D:\wjl\repository\spring-boot-example\target\classes started by wjl in D:\wjl\repository\spring-boot-example)
+[2022-12-31 16:14:23][main] INFO  com.wjl.example.SpringBootExampleApplication - No active profile set, falling back to default profiles: default
+[2022-12-31 16:14:24][main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+[2022-12-31 16:14:24][main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2022-12-31 16:14:24][main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[2022-12-31 16:14:24][main] WARN  org.apache.catalina.core.AprLifecycleListener - This listener must only be nested within Server elements, but is in [TomcatEmbeddedContext].
+[2022-12-31 16:14:24][main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+[2022-12-31 16:14:24][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[2022-12-31 16:14:24][main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2022-12-31 16:14:24][main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+[2022-12-31 16:14:24][main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2022-12-31 16:14:25][main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2022-12-31 16:14:25][main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+[2022-12-31 16:14:25][main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2022-12-31 16:14:25][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[2022-12-31 16:14:25][main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[2022-12-31 16:14:25][main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2022-12-31 16:14:25][main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2022-12-31 16:14:26][main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+[2022-12-31 16:14:26][main] INFO  com.wjl.example.SpringBootExampleApplication - Started SpringBootExampleApplication in 3.805 seconds (JVM running for 4.657)
+[2022-12-31 16:14:29][SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[2022-12-31 16:14:29][SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
